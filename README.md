@@ -1,6 +1,6 @@
 # Hello, I'm Bucky 👋 
 
-## 💻 Full Stack Developer | Mobile App Creator | Tech Enthusiast
+## 💻 Full Stack Developer | Mobile App Creator | Tech Enthusiast | Game Developer
 
 ---
 
